@@ -22,19 +22,19 @@ const projectList = [
     title: "My Portfolio website",
     description:
       "This is my portfolio website where i explain about my experiences and skills as well as educational information.",
-    url: " https://samreentar.github.io/CodeSoft-Task-1-Portfolio/",
+    url: " https://github.com/Samreentar/CodeSoft-Task-1-Portfolio",
   },
   {
     title: "My Calculator website",
     description:
       "This is my Calculator website where i can perform multiple operations like addition ,subraction ,multiplication and division.",
-    url: "https://samreentar.github.io/CodeSoft-Task-2-calculator/",
+    url: "https://github.com/Samreentar/CodeSoft-Task-2-calculator",
   },
   {
     title: "My To-Do-List App ",
     description:
       "This is my to do list app where i can add new task save new task and delete any task.",
-    url: "https://samreentar.github.io/CodeSoft-Task-3-To-Do-List/",
+    url: "https://github.com/Samreentar/CodeSoft-Task-3-To-Do-List",
   },
   {
     title: "GitHub Codespaces and github.dev",
