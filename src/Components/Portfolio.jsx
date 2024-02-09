@@ -9,7 +9,7 @@
  */
 
 import React from "react";
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic5.jpg";
 
 /**
  * Project list
@@ -19,22 +19,22 @@ import image from "../images/design-desk.jpeg";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my portfolio website where i explain about my experiences and skills as well as educational information.",
+    url: " https://samreentar.github.io/CodeSoft-Task-1-Portfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Calculator website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is my Calculator website where i can perform multiple operations like addition ,subraction ,multiplication and division.",
+    url: "https://samreentar.github.io/CodeSoft-Task-2-calculator/",
   },
   {
-    title: "My Resume Site",
+    title: "My To-Do-List App ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my to do list app where i can add new task save new task and delete any task.",
+    url: "https://samreentar.github.io/CodeSoft-Task-3-To-Do-List/",
   },
   {
     title: "GitHub Codespaces and github.dev",
